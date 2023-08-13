@@ -20,6 +20,5 @@ https://guess-the-number-game-website.netlify.app/
 
 
 #### PREVIEW
-![Screenshot-GUESS THE NUMBER GAME](https://github.com/JuliaCMint/guess-the-number-game/assets/105377899/7c6be6ab-0bd1-49b7-aa49-1c0fd7677205)
 
-
+![Screenshot-Guess-The-Number](https://github.com/JuliaCMint/guess-the-number-game/assets/105377899/4ae2849a-0fc6-4f28-8c7e-1511ca1edee8)
